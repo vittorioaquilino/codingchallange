@@ -1,0 +1,73 @@
+body{
+  background-image: url(MaterialeEserciziolim/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.contenitore{
+  text-align:center;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 2%;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 5px;
+}
+
+.logo{
+  width: 200px;
+  padding: 1px;
+  text-align: center;
+}
+
+.logotext{
+  color: #32CD32;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+
+.menu{
+  text-align: center;
+  background-color: #32CD32;
+  margin: 50px;
+  padding: 15px;
+  border: 10px;
+}
+
+main{
+  color: white;
+}
+
+.centrale{
+  text-align: left;
+  margin: 50px;
+}
+
+.titolo{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px,
+}
+
+.sottotitolo{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+.carica1{
+  background-color: #FFBC40;
+  padding: 10px;
+  border-radius: 2%;
+  width: 250px;
+}
+
+.carica2{
+  background-color: #32CD32;
+  padding: 10px;
+  border-radius: 2%;
+  width: 500px;
+}
+
+.carica3{
+  background-color: #EE2C2C;
+  padding: 10px;
+  border-radius: 2%;
+  width: 100px;
+}
